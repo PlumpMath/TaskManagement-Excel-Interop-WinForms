@@ -1,0 +1,11 @@
+D:\winforms\TaskManagementFinal\TaskManagementFinal\bin\Debug\TaskManagementFinal.exe.config
+D:\winforms\TaskManagementFinal\TaskManagementFinal\bin\Debug\TaskManagementFinal.exe
+D:\winforms\TaskManagementFinal\TaskManagementFinal\bin\Debug\TaskManagementFinal.pdb
+D:\winforms\TaskManagementFinal\TaskManagementFinal\obj\Debug\TaskManagement.2.0.csproj.ResolveComReference.cache
+D:\winforms\TaskManagementFinal\TaskManagementFinal\obj\Debug\TaskManagementFinal.MainForm.resources
+D:\winforms\TaskManagementFinal\TaskManagementFinal\obj\Debug\TaskManagementFinal.NewTaskForm.resources
+D:\winforms\TaskManagementFinal\TaskManagementFinal\obj\Debug\TaskManagementFinal.Properties.Resources.resources
+D:\winforms\TaskManagementFinal\TaskManagementFinal\obj\Debug\TaskManagement.2.0.csproj.GenerateResource.Cache
+D:\winforms\TaskManagementFinal\TaskManagementFinal\obj\Debug\TaskManagementFinal.exe
+D:\winforms\TaskManagementFinal\TaskManagementFinal\obj\Debug\TaskManagementFinal.pdb
+D:\winforms\TaskManagementFinal\TaskManagementFinal\obj\Debug\TaskManagement.2.0.csprojResolveAssemblyReference.cache
